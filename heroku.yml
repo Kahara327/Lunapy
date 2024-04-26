@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 main.py
+  worker: pip3 install -r requirements.txt && python3 main.py
