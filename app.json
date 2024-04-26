@@ -1,0 +1,11 @@
+{
+  "name": "Koharu",
+  "description": "whatsapp md bot build with python",
+  "repository": "https://media.pocketmonsters.net/imageboard/77/16590072280080.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
